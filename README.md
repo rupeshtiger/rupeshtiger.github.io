@@ -53,7 +53,7 @@ _Jul 2014 – Jun 2018_
 - Programmed the sensor using C++, ensuring accurate distance measurements by calculating ultrasonic wave time.  
 - Gained practical experience in sensor interfacing.  
 
-### 2. [Data Structure Visualizer]([https://github.com/rupeshtiger/your-project-link](https://github.com/rupeshtiger/cdac-project.git))  
+### 2. [Data Structure Visualizer](https://github.com/rupeshtiger/cdac-project.git)  
 **Technologies:** JavaScript, HTML, CSS  
 - Built an application to visualize data structures and algorithms.  
 - Implemented sorting and searching functionalities for randomly generated arrays.  
