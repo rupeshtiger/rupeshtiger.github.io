@@ -47,7 +47,7 @@ _Jul 2014 – Jun 2018_
 
 ## Projects
 
-### 1. [Ultrasonic Distance Measurement](https://github.com/rupeshtiger/your-project-link)  
+### 1. [Ultrasonic Distance Measurement](https://github.com/rupeshtiger/Ultrasonic-Distance-Measurement.git)  
 **Technologies:** C++  
 - Developed a system to measure distances using the HC-SR04 ultrasonic sensor.  
 - Programmed the sensor using C++, ensuring accurate distance measurements by calculating ultrasonic wave time.  
