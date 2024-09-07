@@ -1,52 +1,73 @@
- https://rupeshtiger.github.io/
-# Rupesh Tiger
-# Full-Stack Developer
+# Rupesh Tiger  
+**Full-Stack Developer**  
+Electronic City, Bengaluru  
+📞 +91 8085406287 | 📧 [rupeshtiger1996@gmail.com](mailto:rupeshtiger1996@gmail.com)  
+[LinkedIn](https://www.linkedin.com/in/your-link) | [GitHub](https://github.com/rupeshtiger) | [HackerRank](https://www.hackerrank.com/your-link)  
 
-Electronic City, Bengaluru
-+91 8085406287
-# Email rupeshtiger1996@gmail.com
-# LinkedIn | GitHub | HackerRank
+---
 
-# Education
-CDAC-Bengaluru, Bengaluru
-Post Graduate Diploma in Advanced Computing
-Mar 2024 – Aug 2024
-Percentage: 57%
+## Education  
+**CDAC-Bengaluru, Bengaluru**  
+**Post Graduate Diploma in Advanced Computing**  
+_Mar 2024 – Aug 2024_  
+**Percentage:** 57%
 
-TCL PG College, Janjgir
-Post Graduate Diploma in Computer Application
-Jul 2021 – Jun 2022
-Percentage: 73%
+**TCL PG College, Janjgir**  
+**Post Graduate Diploma in Computer Application**  
+_Jul 2021 – Jun 2022_  
+**Percentage:** 73%
 
-Rungta College of Engineering & Technology, Bhilai
-Bachelor of Engineering in Electrical Engineering
-Jul 2014 – Jun 2018
-Percentage: 63.5%
+**Rungta College of Engineering & Technology, Bhilai**  
+**Bachelor of Engineering in Electrical Engineering**  
+_Jul 2014 – Jun 2018_  
+**Percentage:** 63.5%
 
-# Skills
-Programming Languages: Java, C++, JavaScript, HTML, CSS
-Libraries/Frameworks: React.js, Spring Boot
-Tools/Platforms: Git, Visual Studio, VS Code, Postman, SQL Workbench
-Databases: MySQL, MongoDB
-OS: Linux
-# Coursework
-Data Structures and Algorithms
-Object Oriented Programming
-Database Management System
+---
+
+## Skills  
+- **Programming Languages:** Java, C++, JavaScript, HTML, CSS  
+- **Libraries/Frameworks:** React.js, Spring Boot  
+- **Tools/Platforms:** Git, Visual Studio, VS Code, Postman, SQL Workbench  
+- **Databases:** MySQL, MongoDB  
+- **Operating Systems:** Linux  
+
+---
+
+## Coursework  
+- Data Structures and Algorithms  
+- Object-Oriented Programming  
+- Database Management Systems  
+
+---
+
 ## Projects
-# Ultrasonic Distance Measurement
-Technologies: C++
-Description: Developed a system to measure distances using the HC-SR04 ultrasonic sensor. Programmed the sensor with a microcontroller using C++, achieving accurate distance measurements through ultrasonic wave time calculation. Gained experience in sensor interfacing.
-Link to Project
-# Data Structure Visualizer
-Technologies: JavaScript, HTML, CSS
-Description: Developed an application to visualize data structures and algorithms. Implemented features for sorting and searching randomly generated arrays. Created an interactive UI using JavaScript, HTML, and CSS to enhance understanding of data structures and algorithms.
-Link to Project
-# Certifications
-C++ Certification – Mcapl Kolkata
-Robotics Certification – TechieNest-IIT Hyderabad
-# Achievements
-Experience with CDAC Bangalore’s PARAM Supercomputer: Completed a one-month hands-on training program with the PARAM supercomputer at CDAC Bangalore. Gained practical experience in high-performance computing.
-# Interests
-Playing Chess
-Solving Puzzles
+
+### 1. [Ultrasonic Distance Measurement](https://github.com/rupeshtiger/your-project-link)  
+**Technologies:** C++  
+- Developed a system to measure distances using the HC-SR04 ultrasonic sensor.  
+- Programmed the sensor using C++, ensuring accurate distance measurements by calculating ultrasonic wave time.  
+- Gained practical experience in sensor interfacing.  
+
+### 2. [Data Structure Visualizer](https://github.com/rupeshtiger/your-project-link)  
+**Technologies:** JavaScript, HTML, CSS  
+- Built an application to visualize data structures and algorithms.  
+- Implemented sorting and searching functionalities for randomly generated arrays.  
+- Created an interactive UI for educational purposes using JavaScript, HTML, and CSS.
+
+---
+
+## Certifications  
+- **C++ Certification** – Mcapl Kolkata  
+- **Robotics Certification** – TechieNest-IIT Hyderabad  
+
+---
+
+## Achievements  
+- **Experience with PARAM Supercomputer:**  
+  Completed a one-month hands-on training program at CDAC Bangalore, working on the PARAM supercomputer. Developed skills in high-performance computing.
+
+---
+
+## Interests  
+- Playing Chess  
+- Solving Puzzles  
