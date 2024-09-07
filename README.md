@@ -32,7 +32,7 @@ _Jul 2014 – Jun 2018_
 ## Skills  
 - **Programming Languages:** Java, C++, JavaScript, HTML, CSS  
 - **Libraries/Frameworks:** React.js, Spring Boot  
-- **Tools/Platforms:** Git, Visual Studio, VS Code, Postman, SQL Workbench  
+- **Tools/Platforms:** Git, Visual Studio, VS Code, Postman, MySQL-Workbench  
 - **Databases:** MySQL, MongoDB  
 - **Operating Systems:** Linux  
 
