@@ -2,7 +2,7 @@
 **Full-Stack Developer**  
 Electronic City, Bengaluru  
 📞 +91 8085406287 | 📧 [rupeshtiger1996@gmail.com](mailto:rupeshtiger1996@gmail.com)  
-[LinkedIn](http://www.linkedin.com/in/rupesh-tiger)) | [GitHub](https://github.com/rupeshtiger) | [HackerRank](https://www.hackerrank.com/profile/rupeshtiger1996)  
+[LinkedIn](http://www.linkedin.com/in/rupesh-tiger) | [GitHub](https://github.com/rupeshtiger) | [HackerRank](https://www.hackerrank.com/profile/rupeshtiger1996)  
 
 ---
 
